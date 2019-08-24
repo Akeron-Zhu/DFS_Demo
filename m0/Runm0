@@ -1,0 +1,5 @@
+#!/bin/bash
+
+./server_for_receive 10000 &
+./server_for_send 10003 &
+./server_receive_server 10007 &

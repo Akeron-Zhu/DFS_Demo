@@ -1,0 +1,8 @@
+#!/bin/bash
+
+cd ./m0
+./Runm0
+cd ../m1
+./Runm1
+cd ../m2
+./Runm2
